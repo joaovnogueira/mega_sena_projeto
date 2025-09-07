@@ -1,16 +1,20 @@
-# mega_sena_projeto
-Esse projeto foi feito com o intuito de mostrar minha capacidade analítica atual e também como curisiodade pessoal. 
-As ferramentas utilizadas e conhecimentos adquiridos foram:
+### PT-BR
+# Sobre 
+Esse projeto mostra os padrõs da mega-sena, desde os números jogados até os estados mais vencedores.
+
+#Ferramentas
 - Matplotlib
 - Pandas
 - Limpeza de dados
 - Manipulação de arquivos xlsx
 
 
-This project was created to demonstrate my current analytical skills as well as out of personal curiosity.
-The tools used and knowledge gained include:
+### EN
+# About
+This project shows the patterns of Mega-Sena, from the numbers played to the states with the most wins.
 
+# Tools
 - Matplotlib
 - Pandas
 - Data cleaning
-- Manipulation of xlsx file
+- Manipulation of xlsx files
