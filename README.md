@@ -2,7 +2,7 @@
 # Sobre 
 Esse projeto mostra os padrõs da mega-sena, desde os números jogados até os estados mais vencedores.
 
-#Ferramentas
+# Ferramentas
 - Matplotlib
 - Pandas
 - Limpeza de dados
